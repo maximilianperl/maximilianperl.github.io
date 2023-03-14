@@ -83,9 +83,9 @@ google_analytics: G-ZFQTC414RT
 # Site Author
 author:
   name             : "Maximilian Perl"
-  avatar           : "bio-photo.jpeg"
-  bio              : " PhD student at University Duisburg-Essen and RTG Regional Disparities and Economic Policy"
-  location         : "Essen, Germany"
+  avatar           : "profile.jpeg"
+  bio              : "PhD student at University Duisburg-Essen"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    :  # https://scholar.google.com/citations?user=q34WXkMAAAAJ&hl=en
