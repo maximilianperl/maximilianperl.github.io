@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonathan Roth"
+title: "Maximilian Perl"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the economics department at Brown University.
+I am a PhD student at the University of Duisburg-Essen and the Research Training Group Regional Disparities and Economic Policy. 
 
-My primary research interests are in econometrics, with a focus on causal inference. I have also worked on topics in labor economics, machine learning, and algorithmic fairness.
+My primary research interests are in labor and urban economics. I have also worked on topics in political economy.
 
-I was previously a senior researcher in the Office of the Chief Economist at Microsoft. I received my PhD in economics in 2020 from Harvard, where I was awarded the David A. Wells prize for best dissertation. I obtained a BA *summa cum laude* in mathematics and economics from the University of Pennsylvania. 
+I was previously a senior researcher in the Office of the Chief Economist at Microsoft. I received a master's in economics in 2020 from the Paris School of Economics, and a master's in economics in 2019 from the University of Mannheim. I obtained a bachelor's in mathematics and economics from the Lancaster University. 
