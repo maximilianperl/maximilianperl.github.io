@@ -12,4 +12,4 @@ I am a PhD student at the University of Duisburg-Essen and the Research Training
 
 My primary research interests are in labor and urban economics, focusing on heterogeneity in wage growth across local labor markets.
 
-I was previously a senior researcher in the Office of the Chief Economist at Microsoft. I received a master's in economics in 2020 from the Paris School of Economics, and a master's in economics in 2019 from the University of Mannheim. I obtained a bachelor's in mathematics and economics from the Lancaster University. 
+I received a master's in economics in 2020 from the Paris School of Economics, and a master's in economics in 2019 from the University of Mannheim. I obtained a bachelor's in mathematics and economics from the Lancaster University. 
