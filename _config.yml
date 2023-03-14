@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Roth"
+title                    : "Maximilian Perl"
 title_separator          : "-"
 name                     : &name "Jonathan Roth"
-description              : &description "Senior Researcher at Microsoft"
-url                      : https://jonathandroth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Student at University Duisburg-Essen"
+url                      : https://maxperl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jonathandroth/jonathandroth.github.io"
+repository               : "maximilianperl/maxperl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,14 +82,14 @@ google_analytics: G-ZFQTC414RT
 
 # Site Author
 author:
-  name             : "Jonathan Roth"
+  name             : "Maximilian Perl"
   avatar           : "profile.jpeg"
-  bio              : 
-  location         : 
+  bio              : " PhD student at University Duisburg-Essen and RTG Regional Disparities and Economic Policy"
+  location         : "Essen, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=q34WXkMAAAAJ&hl=en
-  email            : "jonathan_roth@brown.edu"
+  googlescholar    :  # https://scholar.google.com/citations?user=q34WXkMAAAAJ&hl=en
+  email            : "maximilian.perl@uni-due.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jonathandroth"
+  github           : "maximilianperl"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jondr44"
+  twitter          : "mperlecon"
   vine             :
   weibo            :
   xing             :
