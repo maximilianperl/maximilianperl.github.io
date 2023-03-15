@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **Tasks, Cities and Wage Growth**. 2023.<br/>
-<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Draft][TCWG] | [Ruhr Economic Papers Version][TCWGREP]] </small>
+<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Draft][TCWG] | [Ruhr Economic Papers Version (old)][TCWGREP]] </small>
 
 <div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Wage growth is stronger in larger cities, but this relationship holds exclusively for non-manual workers.  Using rich German administrative data, I study the heterogeneity in the pecuniary value of big city experience, a measure of dynamic agglomeration economies, and its consequences for the city-size wage gap. After 15 years of work experience in Munich the cumulative earnings premium relative to median-sized cities is 15\% for workers in the most manual occupations, 25\% for workers in the least manual occupations and 30\% for workers in the most analytical occupations. This cumulative wage premium is 3 to 5 times the static city-size wage gap.
