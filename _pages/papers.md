@@ -26,7 +26,7 @@ Wage growth is stronger in larger cities, but this relationship holds exclusivel
 
 # <center> Work in Progress </center>
 - - -
-**Tasks, Cities and Agglomeration Economies**. (with Anja Grujovic)<br><br/></div>
+**Tasks, Cities and Agglomeration Economies**. (with Anja Grujovic)<br><br/>
 **The Political Consequences of the Spanish Flu**.
 
 [//]: This java script is the button to show abstract
