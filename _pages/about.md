@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in economics at the Research Training Group Regional Disparities and Economic Policy and the University of Duisburg-Essen. 
+I am a PhD student in economics at the University of Duisburg-Essen and at the Research Training Group Regional Disparities & Economic Policy. 
 
 My primary research interests are in labor and urban economics. In my current work I study the heterogeneity in wage growth across local labor markets. I have also worked on the political consequences of the Spanish Flu.
 
