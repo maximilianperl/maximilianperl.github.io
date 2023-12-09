@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a pdf Version, click [here].
+For a pdf Version, click [here][cv].
 
 [cv]: {{ site.baseurl }}{% link assets/files/PerlCVshort.pdf %}
 
