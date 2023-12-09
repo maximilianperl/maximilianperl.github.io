@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-For a pdf Version, click here.
+For a pdf Version, click [here].
+
+[cv]: {{ site.baseurl }}{% link assets/files/PerlCVshort.pdf %}
 
 Education
 ======
@@ -40,4 +42,5 @@ Work experience
 [//]: #  <ul>{% for post in site.talks %}
 [//]: #    {% include archive-single-talk-cv.html %}
 [//]: #  {% endfor %}</ul>
-  
+
+
