@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+For a pdf Version, click here.
+
 Education
 ======
 * PhD in Economics, University of Duisburg-Essen, 2025 (expected)
-* MA Economic Policy and Analysis, Paris School of Economics, 2020
+* MA Analysis and Policy in Economics, Paris School of Economics, 2020
 * MSc Economics, University of Mannheim, 2019
 * BSc Economics (Hons) (Study Abroad), GitHub University, 2012
 
