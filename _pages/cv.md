@@ -18,7 +18,7 @@ Education
 * PhD in Economics, University of Duisburg-Essen, 2025 (expected)
 * MA Analysis and Policy in Economics, Paris School of Economics, 2020
 * MSc Economics, University of Mannheim, 2019
-* BSc Economics (Hons) (Study Abroad), GitHub University, 2012
+* BSc Economics (Hons) (Study Abroad), Lancaster University, 2017
 
 Work experience
 ======
