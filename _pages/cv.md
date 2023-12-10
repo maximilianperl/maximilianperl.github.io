@@ -26,7 +26,7 @@ Work experience
   * University of Duisburg-Essen
     
 * Pricing Specialist, 2021
-  * Sparkassen Rating und Risikosystem GmbH
+  * Sparkassen Rating und Risikosysteme GmbH
     
 * Research Assistant, Summer 2017
-  * University of Aberdeen
+  * Health Economics Research Unit, University of Aberdeen
