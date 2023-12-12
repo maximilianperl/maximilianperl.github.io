@@ -4,8 +4,8 @@ main:
     url: /
 
   - title: "CV"
-    url: /cv/
-    #url: /assets/files/PerlCVshort.pdf
+    #url: /cv/
+    url: /assets/files/PerlCVshort.pdf
 
   - title: "Papers"
     url: /papers/
