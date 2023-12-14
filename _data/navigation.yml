@@ -5,7 +5,7 @@ main:
 
   - title: "CV"
     #url: /cv/
-    url: /assets/files/PerlCVshort.pdf
+    url: /assets/files/perlcvshort.pdf
 
   - title: "Papers"
     url: /papers/
