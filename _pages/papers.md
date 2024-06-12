@@ -14,9 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Tasks, Cities and Wage Growth**. 2023.
-New draft coming soon!
-
+**Tasks, Cities and Wage Growth**. 2023. New draft coming soon!
 <small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Ruhr Economic Papers Version][TCWGREP]] </small>
 
 <div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
