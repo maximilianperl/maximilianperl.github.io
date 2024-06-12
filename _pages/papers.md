@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Tasks, Cities and Wage Growth**. 2023. New draft coming soon!
+**Tasks, Cities and Wage Growth**. 2023. New draft coming soon! <br><br/>
 <small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Ruhr Economic Papers Version][TCWGREP]] </small>
 
 <div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -27,7 +27,6 @@ Wage growth is stronger in larger cities, but this relationship holds exclusivel
 # <center> Work in Progress </center>
 - - -
 **The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) New draft coming soon! <br><br/>
-
 **The Political Consequences of the Spanish Flu**.
 
 [//]: This java script is the button to show abstract
