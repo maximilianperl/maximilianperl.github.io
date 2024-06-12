@@ -26,8 +26,7 @@ Wage growth is stronger in larger cities, but this relationship holds exclusivel
 
 # <center> Work in Progress </center>
 - - -
-**The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic)<br><br/>
-New draft coming soon!
+**The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) New draft coming soon! <br><br/>
 
 **The Political Consequences of the Spanish Flu**.
 
