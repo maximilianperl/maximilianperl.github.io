@@ -15,10 +15,12 @@ For a longer pdf version, click [here][cv].
 
 Education
 ======
-* PhD in Economics, University of Duisburg-Essen, 2025 (expected)
+* PhD candidate in Economics, University of Duisburg-Essen, 2026 (expected)
+* Visiting Researcher, Humboldt University Berlin, 2025
 * MA Analysis and Policy in Economics, Paris School of Economics, 2020
 * MSc Economics, University of Mannheim, 2019
 * BSc Economics (Hons) (Study Abroad), Lancaster University, 2017
+* Exchange Student, Unviersity of New South Wales, 2015-16
 
 Work experience
 ======
