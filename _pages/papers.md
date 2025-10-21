@@ -26,6 +26,7 @@ Wage growth is stronger in larger cities, but this relationship holds exclusivel
 
 # <center> Work in Progress </center>
 - - -
+**Place-based Policy in Korea**. (with Lennart Palm and Ugur Yesilbayraktar) New draft coming soon! <br><br/>
 **The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) New draft coming soon! <br><br/>
 **The Political Consequences of the Spanish Flu**.
 
